@@ -10,7 +10,7 @@ This Web Application <br>
  The app is serviced by <b>Flask</b> in the back-end.
  
  <h3>Home Page</h3>
- <img src="">
+ <img src="https://github.com/JessicaJudith/RTCS_WebApp/tree/main/uploads/homepage.png">
  
  <h3> Output </h3>
-<img src="">
+<img src="https://github.com/JessicaJudith/RTCS_WebApp/tree/main/uploads/output.png">
